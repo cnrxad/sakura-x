@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Version:</b> Beta 0.0.8 · <b>Theme Family:</b> Sakura X<br>
+  <b>Version:</b> Beta 0.0.9 · <b>Theme Family:</b> Sakura X<br>
   <b>Original Author:</b> <a href="https://github.com/cnrxad">cnrxad</a>
 </p>
 
@@ -53,7 +53,9 @@ We’re currently looking for:
 - 🎨 A **designer** for the Sakura X identity  
 - 🌸 Theme testers and visual feedback contributors
 
-Interested?  
+<br>
+
+**Interested?**  
 👉 [Become a sponsor!](mailto:cnrxad@gmail.com?subject=Sakura%20X%20Sponsor%20Request)
 
 ---
